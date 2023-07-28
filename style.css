@@ -1,0 +1,45 @@
+/*Importar distintas familias de fuentes para la página con ayuda de https://fonts.google.com/*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+body{
+    background-color: #262124;
+    font-family: 'Didact Gothic', sans-serif;
+    color:antiquewhite;
+    text-align:justify;
+    font-size: 20px;
+}
+
+.main-title{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 80px;
+}
+
+.indice{
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 20%;
+}
+
+.galaxia{
+    width: 50%;
+}
+
+.titulo{
+    font-family: 'Lobster', cursive;
+    color: #885C8E;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+
+/*
+selector {
+    propiedad: color;
+}*/
